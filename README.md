@@ -1,10 +1,10 @@
 # DCTNet
 
-Codes for ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution (CVPR 2022 Oral)***
+Codes for ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolution (CVPR 2022 <font color='red'>Oral</font>)***
 
 [Zixiang Zhao](https://zhaozixiang1228.github.io/), [Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang), [Shuang Xu](http://shuangxu96.github.io/), [Zudi Lin](https://zudi-lin.github.io/) and [Hanspeter Pfister](https://vcg.seas.harvard.edu/people).
 
--[*[Paper]*](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.html)
+-[*[Paper]*](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.html)  
 -[*[ArXiv]*](https://arxiv.org/abs/2104.06977)
 
 ## Citation
