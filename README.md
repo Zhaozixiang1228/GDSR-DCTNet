@@ -33,7 +33,7 @@ Our DCTNet is implemented in ``model.py``.
 
 Pretrained model is available in ``'./models/DCTNet_4X.model'``, ``'./models/DCTNet_8X.model'``, ``'./models/DCTNet_16X.model'`` and ``'./models/DCTNet_RealScene.model'``, which are responsible for the tasks of upsampling factors of 4, 8, and 16, and the RGBDD real-world branch task. We train it on NYU v2 (1000 image pairs). In the training phase, all images are resize to 256x256.
 
-If you want to re-train this net, you need to download the original dataset at [https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html](), then use the same preprocessing as DKN [16] and FDSR [12] to get a training set like ``./data/NYU_Train_imgsize_256_scale_4.h5``(because the size of this dataset is 10+GB, we cannot upload it). Subsequently, you should run  ``'train.py'`` to retrain.
+If you want to re-train this net, you need to download the original dataset at [NYU V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html), then use the same preprocessing as [DKN](https://arxiv.org/abs/1910.08373) and [FDSR](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf) to get a training set like ``./data/NYU_Train_imgsize_256_scale_4.h5``(because the size of this dataset is 10+GB, we cannot upload it). Subsequently, you should run  ``'train.py'`` to retrain.
 
 ### Testing
 
