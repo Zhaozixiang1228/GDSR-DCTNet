@@ -6,6 +6,7 @@ Codes for ***Discrete Cosine Transform Network for Guided Depth Map Super-Resolu
 
 -[*[Paper]*](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.html)  
 -[*[ArXiv]*](https://arxiv.org/abs/2104.06977)
+-[*[Supplementary Materials]*](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhao_Discrete_Cosine_Transform_CVPR_2022_supplemental.pdf)
 
 ## Citation
 
