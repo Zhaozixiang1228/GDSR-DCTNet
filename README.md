@@ -37,7 +37,9 @@ If you want to re-train this net, you need to download the original dataset at [
 
 ### Testing
 
-The test images used in the paper have been stored in ``'./RawDatasets/Middlebury'``, ``'./RawDatasets/NYUDepthv2_Test'``, `'./RawDatasets/Lu'`, ``'./RawDatasets/RGBDD'`` and `'./RawDatasets/RGBDD_Test_Realscene'`, respectively. The test data set can be downloaded at [NYU v2](https://web.cecs.pdx.edu/~fliu/project/depth-enhance/), [Middlebury](https://vision.middlebury.edu/stereo/data/), [Lu](https://web.cecs.pdx.edu/~fliu/project/depth-enhance/) and [RGBDD](http://mepro.bjtu.edu.cn/resource.html).
+The test images used in the paper have been stored in ``'./RawDatasets/Middlebury'``, ``'./RawDatasets/NYUDepthv2_Test'``, `'./RawDatasets/Lu'`, ``'./RawDatasets/RGBDD'`` and `'./RawDatasets/RGBDD_Test_Realscene'`, respectively. 
+
+The test data set can be downloaded at [NYU v2](https://web.cecs.pdx.edu/~fliu/project/depth-enhance/), [Middlebury](https://vision.middlebury.edu/stereo/data/), [Lu](https://web.cecs.pdx.edu/~fliu/project/depth-enhance/) and [RGBDD](http://mepro.bjtu.edu.cn/resource.html).
 
 Unfortunately, since the size of **NYU v2 dataset** is 600+MB and that of **RGBDD in real-world branch** is 100+MB, we only upload **three image pairs** from these two datasets respectively to prove the correctness of our codes. The other datasets contain all the test images.
 
